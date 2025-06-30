@@ -26,7 +26,3 @@ Built with 💻 Python and powered by 🧠 GPT.
 - `rich` (for beautiful terminal interface)
 - SQLite (for storage)
 
----
-
-## 📷 Preview
-
