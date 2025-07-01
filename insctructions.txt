@@ -1,0 +1,10 @@
+1. Deck (id, name, flashcards, new_cards_count, learn_cards_count, due_cards_count)
+2. Flashcard (id, front, back, review_datetime, last_review_datetime)
+
+Features:
+1. List all decks availables
+2. Select the deck based on list item
+3. Show the front of flashcard e select the option
+4. Show the back and the options e. g. Easy, Hard, Good
+5. Create a Deck
+6. Create a Card
